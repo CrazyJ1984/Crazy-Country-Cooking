@@ -1,0 +1,11 @@
+:compileApiJava NO-SOURCE
+:processApiResources NO-SOURCE
+:apiClasses UP-TO-DATE
+:sourceMainJava UP-TO-DATE
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+
+BUILD SUCCESSFUL
+
+Total time: 0.196 secs
